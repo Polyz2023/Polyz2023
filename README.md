@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Polyz2023
+- 👋 Hi, I’m 2024MAX
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning c++/Unity/Js/.NET
 - 💞️ I’m looking to collaborate on ...
